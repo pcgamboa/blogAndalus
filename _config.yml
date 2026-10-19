@@ -2,4 +2,4 @@ title: Blog de al-Ándalus
 description: Noticias e historias de nuestro pueblo
 theme: minima
 plugins:
-  - jekyll-feed
+ theme: jekyll-theme-minima
