@@ -1,5 +1,5 @@
-title: Blog de la Memoria andalusí
+title: Blog de al-Ándalus
 description: Noticias e historias de nuestro pueblo
 theme: minima
-header_pages:
-  - sobre-mi.md
+plugins:
+  - jekyll-feed
